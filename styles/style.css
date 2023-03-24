@@ -1,0 +1,8 @@
+*{ /*configuração global*/
+    height: 100%; 
+}
+
+body {
+    background-image: linear-gradient(to bottom, purple, black);
+    background-attachment: fixed; /* deixa o gradiente fixo*/
+}
